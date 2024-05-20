@@ -1,4 +1,4 @@
-This is a modified version of a group project. shuffleImage.m, createTiles.m, and main.m were not written by me.
+This is a modified version of a group project. shuffleImage.m, createTiles.m, and main.m were not written by me. Other files are entirely my work, except of course for vista.jpg which is a test image found through google images.
 
 Features:
 - Read image
